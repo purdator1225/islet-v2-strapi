@@ -60,6 +60,9 @@
     "Showcase": {
       "type": "boolean",
       "required": true
+    },
+    "role": {
+      "type": "string"
     }
   }
 }
