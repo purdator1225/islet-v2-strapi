@@ -63,6 +63,12 @@
     },
     "role": {
       "type": "string"
+    },
+    "client": {
+      "type": "string"
+    },
+    "sortorder": {
+      "type": "integer"
     }
   }
 }
